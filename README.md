@@ -144,7 +144,7 @@ The agent uses LangGraph's message streaming with `stream_mode="messages"` to st
 
 Building towards launching **Ravida AI Agency** — December 2025.
 
-> *"Stop learning. Start building."*
+> *"learning and building is the key of creativity."*
 
 ---
 
